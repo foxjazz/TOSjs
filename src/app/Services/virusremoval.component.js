@@ -9,20 +9,20 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
-var ServicesComponent = (function () {
-    function ServicesComponent() {
+var VirusRemovalComponent = (function () {
+    function VirusRemovalComponent() {
     }
-    ServicesComponent = __decorate([
+    VirusRemovalComponent = __decorate([
         core_1.Component({
-            selector: 'as-services',
-            templateUrl: 'app/services/services.html',
+            selector: 'as-virusremoval',
+            templateUrl: 'app/services/virusremoval.html',
             styleUrls: [
                 'app/services/services.css'
             ]
         }), 
         __metadata('design:paramtypes', [])
-    ], ServicesComponent);
-    return ServicesComponent;
+    ], VirusRemovalComponent);
+    return VirusRemovalComponent;
 }());
-exports.ServicesComponent = ServicesComponent;
-//# sourceMappingURL=Services.Component.js.map
+exports.VirusRemovalComponent = VirusRemovalComponent;
+//# sourceMappingURL=virusremoval.component.js.map

@@ -1,7 +1,7 @@
 "use strict";
 exports.MAIN = {
     APP: {
-        BRAND: 'Angular 2 Starter'
+        BRAND: 'Tech-On-Site'
     }
 };
 //# sourceMappingURL=main.js.map
