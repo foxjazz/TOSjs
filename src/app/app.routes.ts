@@ -11,7 +11,7 @@ const routes: RouterConfig = [
     ...TodolistRoutes,
     ...SimplebindRoutes,
     ...ServicesRoutes,
-    ...ContactRoutes,
+    ...ContactRoutes
 ];
 
 export const APP_ROUTER_PROVIDERS = [

@@ -23,6 +23,12 @@
    margin-bottom:20px; /*to have the space under the image*/
 
 }
+.techImageMargin
+{
+   margin-top:20px; /*to have the space above the image*/
+   margin-bottom:20px; /*to have the space under the image*/
+
+}
 .techfontM2{
 	padding: 0 0 0 4px;
 	color: #F90;
