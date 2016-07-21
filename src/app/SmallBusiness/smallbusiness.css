@@ -54,6 +54,17 @@ h4 {
 	margin-right: 6em;
 	font-size: medium;
 }
+.DBlue{
+	color: #2288FF;
+}
+.DRed{
+	padding: 0 0 0 4px;
+	color: #FF3333;
+	margin: 2em;
+	margin-top: 1em;
+	margin-right: 6em;
+	font-size: medium;
+}
 #techfox form
 {
 	
