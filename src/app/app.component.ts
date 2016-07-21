@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { ROUTER_DIRECTIVES } from '@angular/router';
-import {FooterComponent} from './shared/footer.component';
-import { CONSTANTS, NavbarComponent } from './shared';
+import { CONSTANTS, NavbarComponent, FooterComponent } from './shared';
 
 @Component({
     selector: 'as-main-app',

@@ -1,0 +1,87 @@
+.techmaroon{
+    background: #333333;
+}
+.techgray{
+    background: #333333;
+}
+
+.techblack{
+    background: black;
+}
+
+.aside >img
+{
+    margin-top:20px; /*to have the space above the image*/
+    margin-bottom:20px; /*to have the space under the image*/
+}
+.techImageMargine
+{
+    margin-top:20px; /*to have the space above the image*/
+    margin-bottom:20px; /*to have the space under the image*/
+
+}
+.techfontM2{
+    padding: 0 0 0 4px;
+    color: #F90;
+    margin: 1em;
+    margin-top: 1em;
+    background: black;
+    margin-right: 6em;
+    font-size: medium;
+    text-align: left;
+}
+.techfontM2S2OLD{
+    border-color: #FF6600;
+    padding: 0 0 0 4px;
+    color: #F90;
+    margin: .5em;
+    margin-top: 1em;
+    background: black;
+    font-size: large;
+    text-align: center;
+    font-family: Arial;
+}
+
+.techfontBlue{
+    padding: 0 0 0 4px;
+    color: #F90;
+    margin: 2em;
+    margin-top: 1em;
+    background: #000000 ;
+    margin-right: 6em;
+    font-size: medium;
+}
+#techfox form
+{
+
+    padding: 0 0 0 4px;
+    color: #F90;
+    margin: 2em;
+    margin-top: 1em;
+    background: black;
+    margin-right: 6em;
+    font-size: large;
+    text-align: left;
+
+}
+.techfontThin {
+    color: #66CCFF;
+    background: black;
+    font-size: medium;
+    text-align: center;
+    font-family: Arial;
+    background-color: #000000;
+}
+.techblackNoDisp {
+    background: black;
+
+    text-align: center;
+
+}
+
+.clearit {
+    margin: 0;
+    padding: 0;
+    height: 0;
+    clear: both;
+}
